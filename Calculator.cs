@@ -88,7 +88,6 @@ namespace CalculatorNS
             }
             
         }
-
         public static void Run()
         {
             bool run = true;
